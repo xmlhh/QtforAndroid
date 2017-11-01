@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>CoverFlow.qml</file>
+        <file>Cover/jay.jpg</file>
+        <file>Cover/timg.jpg</file>
+        <file>Cover/timg2.jpg</file>
+        <file>Cover/timg3.jpg</file>
+        <file>Cover/timg4.jpg</file>
+    </qresource>
+</RCC>
