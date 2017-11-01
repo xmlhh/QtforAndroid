@@ -4,7 +4,7 @@ Item {
     id: coverFlow
 
     property ListModel model
-    property int itemCount: 5
+    property int itemCount: 10
     property int topMargin: 80
 
     Rectangle {

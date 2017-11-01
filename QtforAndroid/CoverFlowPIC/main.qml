@@ -14,6 +14,11 @@ Window {
        ListElement{url:"qrc:/Img/xjs_3.jpg"}
        ListElement{url:"qrc:/Img/xjs_4.jpg"}
        ListElement{url:"qrc:/Img/xjs_5.jpg"}
+       ListElement{url:"qrc:/Img/xjs_6.jpg"}
+       ListElement{url:"qrc:/Img/xjs_7.jpg"}
+       ListElement{url:"qrc:/Img/xjs_8.jpg"}
+       ListElement{url:"qrc:/Img/xjs_9.jpg"}
+       ListElement{url:"qrc:/Img/xjs_10.jpg"}
    }
 
    CoverFlow{
